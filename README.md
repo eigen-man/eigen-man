@@ -1,2 +1,2 @@
 # eigen-man
-Blog
+A test blog
